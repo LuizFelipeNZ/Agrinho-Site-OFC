@@ -44,12 +44,6 @@ width: 200px;
     justify-content: center;
     color: yellow;
 }
-#lista-hor{
-    padding: 20px;
-    display: flex;
-    justify-content: center;
-    color: #d4cbcb;
-}
 #lista-pla{
     padding: 20px;
     display: flex;
