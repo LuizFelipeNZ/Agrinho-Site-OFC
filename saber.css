@@ -53,3 +53,8 @@ width: 200px;
 #lista-pla li{
     padding: 15px;
 }
+.map iframe{
+    width: 100%;
+    height: 250px;
+    box-shadow: 0 0 10px #000;
+}
