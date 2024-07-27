@@ -46,17 +46,15 @@ width: 200px;
     color: #d4cbcb;
     text-align: center;
 }
-.img-horta{
+.container{
+    display: flex;
+    align-items: center;
     padding: 20px;
 }
-.img-feira{
-    padding: 20px;
-    float: left;
-}
-.img-merca{
-    padding: 20px;
-    float: right;
-}
-.img-horta2{
-    padding: 20px;
+.texto-1{
+    padding: 50px;
+    color: #d4cbcb;
+    font-size: larger;
+    text-decoration: underline overline;
+    text-align: center;
 }
