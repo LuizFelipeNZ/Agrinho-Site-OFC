@@ -62,11 +62,6 @@ width: 200px;
 .img{
     box-shadow: 20px 20px 20px #000;
 }
-.video{
-    width: 100%;
-    display: flex;
-    justify-content: center;
-}
 .titlo-2{
     padding: 20px;
     display: flex;
@@ -76,6 +71,14 @@ width: 200px;
     align-items: center;
     text-align: center;
 }
-.docu{
-    box-shadow: 20px 20px 20px #000;
-}
+.video{
+    display: flex;
+    justify-content: center;
+ }
+ .video-2{
+     display: flex;
+    justify-content: center;
+    text-shadow: 0 0 10px #000;
+    color: yellow;
+    font-size: larger;
+ }
