@@ -58,3 +58,6 @@ width: 200px;
     text-decoration: underline overline;
     text-align: center;
 }
+.img{
+    box-shadow: 20px 20px 20px #000;
+}
