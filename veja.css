@@ -39,3 +39,9 @@ width: 200px;
     color: #d4cbcb;
     text-decoration: overline underline;
 }
+.texto{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    color: #d4cbcb;
+}
