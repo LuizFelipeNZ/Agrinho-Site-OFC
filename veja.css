@@ -48,13 +48,10 @@ width: 200px;
 }
 .img-horta{
     padding: 20px;
-    display: flex;
-    justify-content: center;
 }
 .img-feira{
     padding: 20px;
-    display: flex;
-    justify-content: left;
+    float: left;
 }
 .img-merca{
     padding: 20px;
@@ -62,6 +59,4 @@ width: 200px;
 }
 .img-horta2{
     padding: 20px;
-    display: flex;
-    justify-content: center;
 }
