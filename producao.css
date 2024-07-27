@@ -78,6 +78,7 @@ width: 200px;
 }
 .cami-img{
     width: 350px;
+    box-shadow: 0 0 10px #000;
 }
 .sub-sub-titulo{
     display: flex;
