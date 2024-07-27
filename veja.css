@@ -57,6 +57,7 @@ width: 200px;
     font-size: larger;
     text-decoration: underline overline;
     text-align: center;
+    text-shadow: 10px 10px 10px #000;
 }
 .img{
     box-shadow: 20px 20px 20px #000;
