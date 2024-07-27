@@ -58,8 +58,7 @@ width: 200px;
 }
 .img-merca{
     padding: 20px;
-    display: flex;
-    justify-content: right;
+    float: right;
 }
 .img-horta2{
     padding: 20px;
