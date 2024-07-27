@@ -37,4 +37,5 @@ width: 200px;
     display: flex;
     justify-content: center;
     color: #d4cbcb;
+    text-decoration: underline overline;
 }
