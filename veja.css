@@ -44,6 +44,7 @@ width: 200px;
     display: flex;
     justify-content: center;
     color: #d4cbcb;
+    text-align: center;
 }
 .img-horta{
     padding: 20px;
