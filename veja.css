@@ -45,3 +45,8 @@ width: 200px;
     justify-content: center;
     color: #d4cbcb;
 }
+.img-horta{
+    padding: 20px;
+    display: flex;
+    justify-content: left;
+}
