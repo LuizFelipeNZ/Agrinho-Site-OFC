@@ -32,3 +32,10 @@ width: 200px;
    background-image: linear-gradient(#526C3F, #539922);
     padding: 50px;
 }
+.Titulo{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    color: #d4cbcb;
+    text-decoration: overline underline;
+}
